@@ -59,6 +59,7 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/k3gxx/proprietary/lib/lib_SamsungRec_V04004.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_SamsungRec_V04004.so \
   vendor/samsung/k3gxx/proprietary/lib/lib_Samsung_Resampler.so:$(TARGET_COPY_OUT_VENDOR)/lib/lib_Samsung_Resampler.so \
   vendor/samsung/k3gxx/proprietary/lib/libaudio-ril.so:$(TARGET_COPY_OUT_VENDOR)/lib/libaudio-ril.so \
+  vendor/samsung/universal5420-common/proprietary/lib/libaudioroute.so:$(TARGET_COPY_OUT_SYSTEM)/lib/libaudioroute.so \
   vendor/samsung/k3gxx/proprietary/lib/libsamsungSoundbooster_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsamsungSoundbooster_ext.so \
   vendor/samsung/k3gxx/proprietary/lib/libcontrolcsc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libcontrolcsc.so \
   vendor/samsung/k3gxx/proprietary/lib/libsecnativefeature.so:$(TARGET_COPY_OUT_VENDOR)/lib/libsecnativefeature.so \
